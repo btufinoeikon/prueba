@@ -8,5 +8,6 @@ namespace prueba3
 {
     public class Class1
     {
+        public string pruebaVar;
     }
 }
