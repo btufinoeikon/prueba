@@ -8,5 +8,7 @@ namespace prueb2
 {
     public class Class1
     {
+        public int cap;
+
     }
 }
